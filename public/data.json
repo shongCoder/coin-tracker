@@ -1,0 +1,5231 @@
+[
+  {
+    "id": "btc-bitcoin",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "rank": 1,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "eth-ethereum",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "rank": 2,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "usdt-tether",
+    "name": "Tether",
+    "symbol": "USDT",
+    "rank": 3,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "bnb-binance-coin",
+    "name": "Binance Coin",
+    "symbol": "BNB",
+    "rank": 4,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "sol-solana",
+    "name": "Solana",
+    "symbol": "SOL",
+    "rank": 5,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "xrp-xrp",
+    "name": "XRP",
+    "symbol": "XRP",
+    "rank": 6,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "steth-lido-staked-ether",
+    "name": "Lido Staked Ether",
+    "symbol": "STETH",
+    "rank": 7,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "usdc-usd-coin",
+    "name": "USDC",
+    "symbol": "USDC",
+    "rank": 8,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ada-cardano",
+    "name": "Cardano",
+    "symbol": "ADA",
+    "rank": 9,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "doge-dogecoin",
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "rank": 10,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "avax-avalanche",
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "rank": 11,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "weth-weth",
+    "name": "WETH",
+    "symbol": "WETH",
+    "rank": 12,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "link-chainlink",
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "rank": 13,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "trx-tron",
+    "name": "TRON",
+    "symbol": "TRX",
+    "rank": 14,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "dot-polkadot",
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "rank": 15,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "shib-shiba-inu",
+    "name": "Shiba Inu",
+    "symbol": "SHIB",
+    "rank": 16,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "matic-polygon",
+    "name": "Polygon",
+    "symbol": "MATIC",
+    "rank": 17,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "wbtc-wrapped-bitcoin",
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "rank": 18,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "bch-bitcoin-cash",
+    "name": "Bitcoin Cash",
+    "symbol": "BCH",
+    "rank": 19,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "uni-uniswap",
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "rank": 20,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ltc-litecoin",
+    "name": "Litecoin",
+    "symbol": "LTC",
+    "rank": 21,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "icp-internet-computer",
+    "name": "Internet Computer",
+    "symbol": "ICP",
+    "rank": 22,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "dai-dai",
+    "name": "Dai",
+    "symbol": "DAI",
+    "rank": 23,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "etc-ethereum-classic",
+    "name": "Ethereum Classic",
+    "symbol": "ETC",
+    "rank": 24,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "atom-cosmos",
+    "name": "Cosmos",
+    "symbol": "ATOM",
+    "rank": 25,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "btcb-binance-bitcoin",
+    "name": "Binance Bitcoin",
+    "symbol": "BTCB",
+    "rank": 26,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "fil-filecoin",
+    "name": "Filecoin",
+    "symbol": "FIL",
+    "rank": 27,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "leo-leo-token",
+    "name": "LEO Token",
+    "symbol": "LEO",
+    "rank": 28,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "apt-aptos",
+    "name": "Aptos",
+    "symbol": "APT",
+    "rank": 29,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "near-near-protocol",
+    "name": "Near Protocol",
+    "symbol": "NEAR",
+    "rank": 30,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "imx-immutable-x",
+    "name": "Immutable X",
+    "symbol": "IMX",
+    "rank": 31,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "stx-stacks",
+    "name": "Stacks",
+    "symbol": "STX",
+    "rank": 32,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "tao-bittensor",
+    "name": "BitTensor",
+    "symbol": "TAO",
+    "rank": 33,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "toncoin-the-open-network",
+    "name": "Toncoin",
+    "symbol": "TON",
+    "rank": 34,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "inj-injective-protocol",
+    "name": "Injective Protocol",
+    "symbol": "INJ",
+    "rank": 35,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "kas-kaspa",
+    "name": "Kaspa",
+    "symbol": "KAS",
+    "rank": 36,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "op-optimism",
+    "name": "Optimism",
+    "symbol": "OP",
+    "rank": 37,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "hbar-hedera-hashgraph",
+    "name": "Hedera Hashgraph",
+    "symbol": "HBAR",
+    "rank": 38,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "xlm-stellar",
+    "name": "Stellar",
+    "symbol": "XLM",
+    "rank": 39,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "vet-vechain",
+    "name": "VeChain",
+    "symbol": "VET",
+    "rank": 40,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "cro-cryptocom-chain",
+    "name": "Cronos",
+    "symbol": "CRO",
+    "rank": 41,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "fdusd-first-digital-usd",
+    "name": "First Digital USD",
+    "symbol": "FDUSD",
+    "rank": 42,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "okb-okb",
+    "name": "OKB",
+    "symbol": "OKB",
+    "rank": 43,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ldo-lido-dao",
+    "name": "Lido DAO",
+    "symbol": "LDO",
+    "rank": 44,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "grt-the-graph",
+    "name": "The Graph",
+    "symbol": "GRT",
+    "rank": 45,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mnt-mantle",
+    "name": "Mantle",
+    "symbol": "MNT",
+    "rank": 46,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "rndr-render-token",
+    "name": "Render Token",
+    "symbol": "RNDR",
+    "rank": 47,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "tia-celestia",
+    "name": "Celestia",
+    "symbol": "TIA",
+    "rank": 48,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "xmr-monero",
+    "name": "Monero",
+    "symbol": "XMR",
+    "rank": 49,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "arb-arbitrum",
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "rank": 50,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "pls-pulsechain",
+    "name": "Pulsechain",
+    "symbol": "PLS",
+    "rank": 51,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "reth-rocket-pool-eth",
+    "name": "Rocket Pool ETH",
+    "symbol": "RETH",
+    "rank": 52,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "theta-theta-token",
+    "name": "THETA",
+    "symbol": "THETA",
+    "rank": 53,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "bsv-bitcoin-sv",
+    "name": "Bitcoin SV",
+    "symbol": "BSV",
+    "rank": 54,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "sui-sui",
+    "name": "Sui",
+    "symbol": "SUI",
+    "rank": 55,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "mkr-maker",
+    "name": "Maker",
+    "symbol": "MKR",
+    "rank": 56,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "rune-thorchain",
+    "name": "THORChain",
+    "symbol": "RUNE",
+    "rank": 57,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "algo-algorand",
+    "name": "Algorand",
+    "symbol": "ALGO",
+    "rank": 58,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "beam-beam-eth",
+    "name": "Beam Token",
+    "symbol": "BEAM",
+    "rank": 59,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "aave-new",
+    "name": "Aave",
+    "symbol": "AAVE",
+    "rank": 60,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "egld-elrond",
+    "name": "MultiversX (Elrond)",
+    "symbol": "EGLD",
+    "rank": 61,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "ar-arweave",
+    "name": "Arweave",
+    "symbol": "AR",
+    "rank": 62,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "pepe-pepe",
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "rank": 63,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ordi-ordinals",
+    "name": "Ordinals",
+    "symbol": "ORDI",
+    "rank": 64,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "hex-hex-from-pulsechain",
+    "name": "HEX from Pulsechain",
+    "symbol": "HEX",
+    "rank": 65,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "flr-flare-network",
+    "name": "Flare Network",
+    "symbol": "FLR",
+    "rank": 66,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "sand-the-sandbox",
+    "name": "The Sandbox",
+    "symbol": "SAND",
+    "rank": 67,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "bonk-bonk",
+    "name": "Bonk",
+    "symbol": "BONK",
+    "rank": 68,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "sei-sei",
+    "name": "Sei",
+    "symbol": "SEI",
+    "rank": 69,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "qnt-quant",
+    "name": "Quant",
+    "symbol": "QNT",
+    "rank": 70,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mina-mina-protocol",
+    "name": "Mina Protocol",
+    "symbol": "MINA",
+    "rank": 71,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "fetch-ai",
+    "name": "Fetch.AI",
+    "symbol": "FET",
+    "rank": 72,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ftm-fantom",
+    "name": "Fantom",
+    "symbol": "FTM",
+    "rank": 73,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "axs-axie-infinity",
+    "name": "Axie Infinity",
+    "symbol": "AXS",
+    "rank": 74,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "snx-synthetix-network-token",
+    "name": "Synthetix Network Token",
+    "symbol": "SNX",
+    "rank": 75,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "chz-chiliz",
+    "name": "Chiliz",
+    "symbol": "CHZ",
+    "rank": 76,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "hnt-helium",
+    "name": "Helium",
+    "symbol": "HNT",
+    "rank": 77,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "bttc-bittorrent-chain",
+    "name": "BitTorrent",
+    "symbol": "BTT",
+    "rank": 78,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ape-apecoin",
+    "name": "ApeCoin",
+    "symbol": "APE",
+    "rank": 79,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "xtz-tezos",
+    "name": "Tezos",
+    "symbol": "XTZ",
+    "rank": 80,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "luna-terra",
+    "name": "Terra Classic",
+    "symbol": "LUNC",
+    "rank": 81,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "strk-starknet",
+    "name": "Starknet",
+    "symbol": "STRK",
+    "rank": 82,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "gala-gala",
+    "name": "Gala",
+    "symbol": "GALA",
+    "rank": 83,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "plsx-pulsex",
+    "name": "PulseX",
+    "symbol": "PLSX",
+    "rank": 84,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "bgb-bitget-token",
+    "name": "Bitget Token",
+    "symbol": "BGB",
+    "rank": 85,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mana-decentraland",
+    "name": "Decentraland",
+    "symbol": "MANA",
+    "rank": 86,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "tusd-trueusd",
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "rank": 87,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "flow-flow",
+    "name": "Flow",
+    "symbol": "FLOW",
+    "rank": 88,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "kcs-kucoin-token",
+    "name": "KuCoin Token",
+    "symbol": "KCS",
+    "rank": 89,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "wpls-wrapped-pulse",
+    "name": "Wrapped Pulse",
+    "symbol": "WPLS",
+    "rank": 90,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "agix-singularitynet",
+    "name": "Singularity NET",
+    "symbol": "AGIX",
+    "rank": 91,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "neo-neo",
+    "name": "NEO",
+    "symbol": "NEO",
+    "rank": 92,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "wbt-whitebit",
+    "name": "WhiteBIT Coin",
+    "symbol": "WBT",
+    "rank": 94,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "wld-worldcoin",
+    "name": "Worldcoin",
+    "symbol": "WLD",
+    "rank": 95,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "rose-oasis-network",
+    "name": "Oasis Network",
+    "symbol": "ROSE",
+    "rank": 96,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "akt-akash-network",
+    "name": "Akash Network",
+    "symbol": "AKT",
+    "rank": 97,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "blur-blur",
+    "name": "Blur",
+    "symbol": "BLUR",
+    "rank": 98,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "klay-klaytn",
+    "name": "Klaytn",
+    "symbol": "KLAY",
+    "rank": 99,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "cfx-conflux-network",
+    "name": "Conflux Network",
+    "symbol": "CFX",
+    "rank": 100,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "gno-gnosis",
+    "name": "Gnosis",
+    "symbol": "GNO",
+    "rank": 101,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "jasmy-jasmycoin",
+    "name": "JasmyCoin",
+    "symbol": "JASMY",
+    "rank": 102,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "floki-floki-inu",
+    "name": "Floki Inu",
+    "symbol": "FLOKI",
+    "rank": 103,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "kava-kava",
+    "name": "Kava",
+    "symbol": "KAVA",
+    "rank": 104,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "eos-eos",
+    "name": "EOS",
+    "symbol": "EOS",
+    "rank": 105,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "pyth-pyth-network",
+    "name": "Pyth Network",
+    "symbol": "PYTH",
+    "rank": 106,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "woo-wootrade",
+    "name": "WOO Network",
+    "symbol": "WOO",
+    "rank": 107,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "cheelee-cheelee",
+    "name": "Cheelee",
+    "symbol": "CHEEL",
+    "rank": 108,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "astr-astar",
+    "name": "Astar",
+    "symbol": "ASTR",
+    "rank": 109,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "xec-ecash",
+    "name": "eCash",
+    "symbol": "XEC",
+    "rank": 110,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "miota-iota",
+    "name": "IOTA",
+    "symbol": "IOTA",
+    "rank": 111,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "dym-dymension-iou",
+    "name": "Dymension ",
+    "symbol": "DYM",
+    "rank": 112,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "hex-hex",
+    "name": "HEX",
+    "symbol": "HEX",
+    "rank": 113,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "wbnb-wrapped-bnb",
+    "name": "Wrapped BNB",
+    "symbol": "WBNB",
+    "rank": 114,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "msol-marinade-staked-sol",
+    "name": "Marinade Staked Sol",
+    "symbol": "MSOL",
+    "rank": 115,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "osmo-osmosis",
+    "name": "Osmosis",
+    "symbol": "OSMO",
+    "rank": 116,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ron-ronin-token",
+    "name": "Ronin Token",
+    "symbol": "RON",
+    "rank": 117,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "pendle-pendle",
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "rank": 118,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "jup-jupiter-exchange-token",
+    "name": "Jupiter Exchange Token",
+    "symbol": "JUP",
+    "rank": 119,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "cake-pancakeswap",
+    "name": "PancakeSwap",
+    "symbol": "CAKE",
+    "rank": 120,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "nexo-nexo",
+    "name": "Nexo",
+    "symbol": "NEXO",
+    "rank": 121,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "crv-curve-dao-token",
+    "name": "Curve DAO Token",
+    "symbol": "CRV",
+    "rank": 122,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ftt-ftx-token",
+    "name": "FTX Token",
+    "symbol": "FTT",
+    "rank": 123,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "usdd-usdd",
+    "name": "USDD",
+    "symbol": "USDD",
+    "rank": 124,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "rbn-ribbon-finance",
+    "name": "Ribbon Finance",
+    "symbol": "RBN",
+    "rank": 125,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "manta-manta-network",
+    "name": "Manta Network",
+    "symbol": "MANTA",
+    "rank": 126,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "cbeth-coinbase-wrapped-staked-eth",
+    "name": "Coinbase Wrapped Staked ETH",
+    "symbol": "CBETH",
+    "rank": 127,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "fxs-frax-share",
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "rank": 128,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "super-superfarm",
+    "name": "SuperVerse",
+    "symbol": "SUPER",
+    "rank": 129,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ens-ethereum-name-service",
+    "name": "Ethereum Name Service",
+    "symbol": "ENS",
+    "rank": 130,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "enj-enjin-coin",
+    "name": "Enjin Coin",
+    "symbol": "ENJ",
+    "rank": 131,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "hot-holo",
+    "name": "Holo",
+    "symbol": "HOT",
+    "rank": 132,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ckb-nervos-network",
+    "name": "Nervos Network",
+    "symbol": "CKB",
+    "rank": 133,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "1inch-1inch",
+    "name": "1INCH",
+    "symbol": "1INCH",
+    "rank": 134,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "frax-frax",
+    "name": "Frax",
+    "symbol": "FRAX",
+    "rank": 135,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "core-core-dao",
+    "name": "Core DAO",
+    "symbol": "CORE",
+    "rank": 136,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "rpl-rocket-pool",
+    "name": "Rocket Pool",
+    "symbol": "RPL",
+    "rank": 137,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "celo-celo",
+    "name": "Celo",
+    "symbol": "CELO",
+    "rank": 138,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "twt-trust-wallet-token",
+    "name": "Trust Wallet Token",
+    "symbol": "TWT",
+    "rank": 139,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "iotx-iotex",
+    "name": "IoTeX",
+    "symbol": "IOTX",
+    "rank": 140,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ocean-ocean-protocol",
+    "name": "Ocean Protocol",
+    "symbol": "OCEAN",
+    "rank": 141,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "gmt-stepn",
+    "name": "GMT",
+    "symbol": "GMT",
+    "rank": 142,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "luna-terra-v2",
+    "name": "Terra",
+    "symbol": "LUNA",
+    "rank": 144,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "stsol-lido-staked-sol",
+    "name": "Lido Staked SOL",
+    "symbol": "STSOL",
+    "rank": 144,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "btg-bitcoin-gold",
+    "name": "Bitcoin Gold",
+    "symbol": "BTG",
+    "rank": 145,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "metis-metis-token",
+    "name": "Metis Token",
+    "symbol": "METIS",
+    "rank": 146,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "sc-siacoin",
+    "name": "Siacoin",
+    "symbol": "SC",
+    "rank": 147,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "alt-altlayer",
+    "name": "AltLayer",
+    "symbol": "ALT",
+    "rank": 148,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "gmx-gmx",
+    "name": "GMX",
+    "symbol": "GMX",
+    "rank": 150,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "orbr-orbler",
+    "name": "Orbler",
+    "symbol": "ORBR",
+    "rank": 151,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "xdc-xdc-network",
+    "name": "XDC Network",
+    "symbol": "XDC",
+    "rank": 152,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "nft-apenft",
+    "name": "APENFT",
+    "symbol": "NFT",
+    "rank": 152,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ftn-fasttoken",
+    "name": "Fasttoken",
+    "symbol": "FTN",
+    "rank": 153,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "gt-gatechain-token",
+    "name": "Gatechain Token",
+    "symbol": "GT",
+    "rank": 154,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "zil-zilliqa",
+    "name": "Zilliqa",
+    "symbol": "ZIL",
+    "rank": 155,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "zec-zcash",
+    "name": "Zcash",
+    "symbol": "ZEC",
+    "rank": 156,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "xaut-tether-gold",
+    "name": "Tether Gold",
+    "symbol": "XAUT",
+    "rank": 157,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "cspr-casper-network",
+    "name": "Casper Network",
+    "symbol": "CSPR",
+    "rank": 158,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "trac-origintrail",
+    "name": "OriginTrail",
+    "symbol": "TRAC",
+    "rank": 160,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "kuji-kujira",
+    "name": "Kujira",
+    "symbol": "KUJI",
+    "rank": 160,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "xch-chia-",
+    "name": "Chia",
+    "symbol": "XCH",
+    "rank": 161,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "gas-gas",
+    "name": "Gas",
+    "symbol": "GAS",
+    "rank": 162,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "bat-basic-attention-token",
+    "name": "Basic Attention Token",
+    "symbol": "BAT",
+    "rank": 163,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "elf-aelf",
+    "name": "aelf",
+    "symbol": "ELF",
+    "rank": 164,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "radix-dlt",
+    "name": "Radix",
+    "symbol": "XRD",
+    "rank": 165,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "tfuel-theta-fuel",
+    "name": "Theta Fuel",
+    "symbol": "TFUEL",
+    "rank": 166,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "cvx-convex-finance",
+    "name": "Convex Finance",
+    "symbol": "CVX",
+    "rank": 167,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mask-mask-network",
+    "name": "Mask Network",
+    "symbol": "MASK",
+    "rank": 168,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ilv-illuvium",
+    "name": "Illuvium",
+    "symbol": "ILV",
+    "rank": 169,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ksm-kusama",
+    "name": "Kusama",
+    "symbol": "KSM",
+    "rank": 170,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "lpt-livepeer",
+    "name": "Livepeer",
+    "symbol": "LPT",
+    "rank": 171,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "rlb-rollbit-coin",
+    "name": "Rollbit Coin",
+    "symbol": "RLB",
+    "rank": 172,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "lrc-loopring",
+    "name": "Loopring",
+    "symbol": "LRC",
+    "rank": 173,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "dash-dash",
+    "name": "Dash",
+    "symbol": "DASH",
+    "rank": 174,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "xem-nem",
+    "name": "NEM",
+    "symbol": "XEM",
+    "rank": 175,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "glmr-moonbeam",
+    "name": "Moonbeam",
+    "symbol": "GLMR",
+    "rank": 176,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "qtum-qtum",
+    "name": "Qtum",
+    "symbol": "QTUM",
+    "rank": 177,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "glm-golem",
+    "name": "Golem",
+    "symbol": "GLM",
+    "rank": 178,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "meme-memecoin",
+    "name": "Memecoin",
+    "symbol": "MEME",
+    "rank": 179,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "strd-stride",
+    "name": "Stride",
+    "symbol": "STRD",
+    "rank": 180,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ethw-ethereum-pow",
+    "name": "Ethereum PoW",
+    "symbol": "ETHW",
+    "rank": 181,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "prime-echelon-prime",
+    "name": "Echelon Prime",
+    "symbol": "PRIME",
+    "rank": 182,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "paxg-pax-gold",
+    "name": "PAX Gold",
+    "symbol": "PAXG",
+    "rank": 183,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "rvn-ravencoin",
+    "name": "Ravencoin",
+    "symbol": "RVN",
+    "rank": 184,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "dydx-dydx",
+    "name": "DYDX",
+    "symbol": "DYDX",
+    "rank": 185,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "kda-kadena",
+    "name": "Kadena",
+    "symbol": "KDA",
+    "rank": 186,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "pokt-pocket-network",
+    "name": "Pocket Network",
+    "symbol": "POKT",
+    "rank": 187,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "sushi-sushi",
+    "name": "Sushi",
+    "symbol": "SUSHI",
+    "rank": 188,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ant-aragon",
+    "name": "Aragon",
+    "symbol": "ANT",
+    "rank": 189,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "okt-okc-token",
+    "name": "OKT Token",
+    "symbol": "OKT",
+    "rank": 190,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "audio-audius",
+    "name": "Audius",
+    "symbol": "AUDIO",
+    "rank": 191,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "xai-xai-games",
+    "name": "Xai Games",
+    "symbol": "XAI",
+    "rank": 192,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "one-harmony",
+    "name": "Harmony",
+    "symbol": "ONE",
+    "rank": 193,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "dcr-decred",
+    "name": "Decred",
+    "symbol": "DCR",
+    "rank": 194,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "zrx-0x",
+    "name": "0x",
+    "symbol": "ZRX",
+    "rank": 195,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "vtho-vethor-token",
+    "name": "VeThor Token",
+    "symbol": "VTHO",
+    "rank": 196,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ust-terrausd",
+    "name": "Terra Classic USD",
+    "symbol": "USTC",
+    "rank": 197,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "deso-decentralized-social",
+    "name": "Decentralized Social",
+    "symbol": "DESO",
+    "rank": 198,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "uma-uma",
+    "name": "UMA",
+    "symbol": "UMA",
+    "rank": 199,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "jst-just",
+    "name": "JUST",
+    "symbol": "JST",
+    "rank": 200,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "zel-zelcash",
+    "name": "FLUX",
+    "symbol": "FLUX",
+    "rank": 201,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "band-band-protocol",
+    "name": "Band Protocol",
+    "symbol": "BAND",
+    "rank": 202,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "waves-waves",
+    "name": "Waves",
+    "symbol": "WAVES",
+    "rank": 203,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "cfg-centrifuge",
+    "name": "Centrifuge",
+    "symbol": "CFG",
+    "rank": 204,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "azero-aleph-zero",
+    "name": "Aleph Zero",
+    "symbol": "AZERO",
+    "rank": 205,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "api3-api3",
+    "name": "API3",
+    "symbol": "API3",
+    "rank": 206,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "storj-storj",
+    "name": "Storj",
+    "symbol": "STORJ",
+    "rank": 207,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "coti-coti",
+    "name": "COTI",
+    "symbol": "COTI",
+    "rank": 208,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ctsi-cartesi",
+    "name": "Cartesi",
+    "symbol": "CTSI",
+    "rank": 209,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "aioz-aioz-network",
+    "name": "AIOZ Network",
+    "symbol": "AIOZ",
+    "rank": 210,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "yfi-yearnfinance",
+    "name": "yearn.finance",
+    "symbol": "YFI",
+    "rank": 211,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "trb-tellor",
+    "name": "Tellor",
+    "symbol": "TRB",
+    "rank": 212,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "t-threshold-network-token",
+    "name": "Threshold Network",
+    "symbol": "T",
+    "rank": 213,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "savax-benqi-liquid-staked-avax",
+    "name": "BENQI Liquid Staked AVAX",
+    "symbol": "SAVAX",
+    "rank": 214,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ray-raydium",
+    "name": "Raydium",
+    "symbol": "RAY",
+    "rank": 215,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "pyusd-paypal-usd",
+    "name": "PayPal USD",
+    "symbol": "PYUSD",
+    "rank": 216,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mx-mx-token",
+    "name": "MX Token",
+    "symbol": "MX",
+    "rank": 217,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "comp-compoundd",
+    "name": "Compound",
+    "symbol": "COMP",
+    "rank": 218,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ace-fusionist",
+    "name": "Fusionist",
+    "symbol": "ACE",
+    "rank": 219,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "bal-balancer",
+    "name": "Balancer",
+    "symbol": "BAL",
+    "rank": 220,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "rlc-iexec-rlc",
+    "name": "iExec RLC",
+    "symbol": "RLC",
+    "rank": 221,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "wax-wax",
+    "name": "WAX",
+    "symbol": "WAXP",
+    "rank": 222,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "btcb-bitcoin-avalanche-bridged-btcb",
+    "name": "Bitcoin Avalanche Bridged (BTC.b)",
+    "symbol": "BTC.B",
+    "rank": 223,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ln-link",
+    "name": "LINK",
+    "symbol": "LN",
+    "rank": 224,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "ont-ontology",
+    "name": "Ontology",
+    "symbol": "ONT",
+    "rank": 225,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "babydoge-baby-doge-coin",
+    "name": "Baby Doge Coin",
+    "symbol": "BABYDOGE",
+    "rank": 226,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "chsb-swissborg",
+    "name": "SwissBorg",
+    "symbol": "BORG",
+    "rank": 227,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "kub-bitkub-coin",
+    "name": "Bitkub Coin",
+    "symbol": "KUB",
+    "rank": 228,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "ht-huobi-token",
+    "name": "Huobi Token",
+    "symbol": "HT",
+    "rank": 229,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "sxp-swipe",
+    "name": "Swipe",
+    "symbol": "SXP",
+    "rank": 230,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "alph-alephium",
+    "name": "Alephium",
+    "symbol": "ALPH",
+    "rank": 231,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "bdx-beldex",
+    "name": "Beldex",
+    "symbol": "BDX",
+    "rank": 232,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "iost-iost",
+    "name": "IOST",
+    "symbol": "IOST",
+    "rank": 233,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "wbeth-wrapped-beacon-eth",
+    "name": "Wrapped Beacon ETH",
+    "symbol": "WBETH",
+    "rank": 234,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "sgb-songbird",
+    "name": "Songbird",
+    "symbol": "SGB",
+    "rank": 235,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "cqt-covalent",
+    "name": "Covalent",
+    "symbol": "CQT",
+    "rank": 236,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "dgb-digibyte",
+    "name": "DigiByte",
+    "symbol": "DGB",
+    "rank": 237,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "sfund-seedifyfund",
+    "name": "Seedify.fund",
+    "symbol": "SFUND",
+    "rank": 238,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "alex-alex-lab",
+    "name": "ALEX Lab",
+    "symbol": "ALEX",
+    "rank": 239,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "oas-oasys",
+    "name": "Oasys",
+    "symbol": "OAS",
+    "rank": 240,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "0x0-0x0ai-ai-smart-contract",
+    "name": "0x0.ai: AI Smart Contract",
+    "symbol": "0X0",
+    "rank": 241,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "people-constitutiondao",
+    "name": "Constitution DAO",
+    "symbol": "PEOPLE",
+    "rank": 242,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "dexe-dexe",
+    "name": "DeXe",
+    "symbol": "DEXE",
+    "rank": 243,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ssv-ssv-network",
+    "name": "SSV Network",
+    "symbol": "SSV",
+    "rank": 244,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "tribe-tribe",
+    "name": "Tribe",
+    "symbol": "TRIBE",
+    "rank": 245,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "rif-rif-token",
+    "name": "RSK Infrastructure Framework",
+    "symbol": "RIF",
+    "rank": 246,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "celr-celer-network",
+    "name": "Celer Network",
+    "symbol": "CELR",
+    "rank": 247,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "gns-gains-network",
+    "name": "Gains Network",
+    "symbol": "GNS",
+    "rank": 248,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "id2-space-id",
+    "name": "Space ID",
+    "symbol": "ID",
+    "rank": 250,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ygg-yield-guild-games",
+    "name": "Yield Guild Games",
+    "symbol": "YGG",
+    "rank": 250,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "movr-moonriver",
+    "name": "Moonriver",
+    "symbol": "MOVR",
+    "rank": 251,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "amp-amp",
+    "name": "Amp",
+    "symbol": "AMP",
+    "rank": 253,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ach-alchemy-pay",
+    "name": "Alchemy Pay",
+    "symbol": "ACH",
+    "rank": 254,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "strax-stratis",
+    "name": "Stratis",
+    "symbol": "STRAX",
+    "rank": 254,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "om-mantra-dao",
+    "name": "MANTRA",
+    "symbol": "OM",
+    "rank": 255,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "orai-oraichain-token",
+    "name": "Oraichain Token",
+    "symbol": "ORAI",
+    "rank": 256,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "nmr-numeraire",
+    "name": "Numeraire",
+    "symbol": "NMR",
+    "rank": 257,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "syn-synapse",
+    "name": "Synapse",
+    "symbol": "SYN",
+    "rank": 258,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "dent-dent",
+    "name": "Dent",
+    "symbol": "DENT",
+    "rank": 259,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "vvs-vvs-finance",
+    "name": "VVS Finance",
+    "symbol": "VVS",
+    "rank": 260,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "btrst-braintrust",
+    "name": "Braintrust",
+    "symbol": "BTRST",
+    "rank": 261,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "rsr-reserve-rights",
+    "name": "Reserve Rights",
+    "symbol": "RSR",
+    "rank": 262,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ico-marlin",
+    "name": "Marlin",
+    "symbol": "POND",
+    "rank": 263,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "joe-trader-joe",
+    "name": "Trader Joe",
+    "symbol": "JOE",
+    "rank": 265,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "naka-nakamoto-games",
+    "name": "Nakamoto Games",
+    "symbol": "NAKA",
+    "rank": 265,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "lsk-lisk",
+    "name": "Lisk",
+    "symbol": "LSK",
+    "rank": 266,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "usdp-paxos-standard-token",
+    "name": "Paxos Standard",
+    "symbol": "USDP",
+    "rank": 267,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "xvs-venus",
+    "name": "Venus",
+    "symbol": "XVS",
+    "rank": 267,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "xno-nano",
+    "name": "Nano",
+    "symbol": "XNO",
+    "rank": 269,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "prom-prometeus",
+    "name": "Prometeus",
+    "symbol": "PROM",
+    "rank": 270,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "lcx-lcx",
+    "name": "LCX",
+    "symbol": "LCX",
+    "rank": 270,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "powr-power-ledger",
+    "name": "Power Ledger",
+    "symbol": "POWR",
+    "rank": 272,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "slp-smooth-love-potion",
+    "name": "Smooth Love Potion",
+    "symbol": "SLP",
+    "rank": 273,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "pyr-vulcan-forged",
+    "name": "Vulcan Forged",
+    "symbol": "PYR",
+    "rank": 274,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "myria-myria",
+    "name": "Myria",
+    "symbol": "MYRIA",
+    "rank": 275,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "hive-hive",
+    "name": "HIVE",
+    "symbol": "HIVE",
+    "rank": 276,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "tlos-telos",
+    "name": "Telos",
+    "symbol": "TLOS",
+    "rank": 277,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "bora-bora",
+    "name": "BORA",
+    "symbol": "BORA",
+    "rank": 278,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ctc-creditcoin",
+    "name": "Creditcoin",
+    "symbol": "CTC",
+    "rank": 279,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "spell-spell-token",
+    "name": "Spell Token",
+    "symbol": "SPELL",
+    "rank": 280,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "snt-status",
+    "name": "Status",
+    "symbol": "SNT",
+    "rank": 280,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "chr-chromia",
+    "name": "Chromia",
+    "symbol": "CHR",
+    "rank": 282,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "nym-nym",
+    "name": "Nym",
+    "symbol": "NYM",
+    "rank": 283,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "bone-bone-shibaswap",
+    "name": "Bone ShibaSwap",
+    "symbol": "BONE",
+    "rank": 284,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "we-webuy",
+    "name": "WeBuy",
+    "symbol": "WE",
+    "rank": 285,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mav-maverick-token",
+    "name": "Maverick Token",
+    "symbol": "MAV",
+    "rank": 286,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "sys-syscoin",
+    "name": "Syscoin",
+    "symbol": "SYS",
+    "rank": 287,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "polyx-polymesh",
+    "name": "Polymesh",
+    "symbol": "POLYX",
+    "rank": 288,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "efyt-ergo",
+    "name": "Ergo",
+    "symbol": "ERG",
+    "rank": 289,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "zen-horizen",
+    "name": "Horizen",
+    "symbol": "ZEN",
+    "rank": 290,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "scrt-secret",
+    "name": "Secret",
+    "symbol": "SCRT",
+    "rank": 291,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "ark-ark",
+    "name": "Ark",
+    "symbol": "ARK",
+    "rank": 292,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "abt-arcblock",
+    "name": "Arcblock",
+    "symbol": "ABT",
+    "rank": 293,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "gf-guildfi",
+    "name": "GuildFi",
+    "symbol": "GF",
+    "rank": 294,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "tel-telcoin",
+    "name": "Telcoin",
+    "symbol": "TEL",
+    "rank": 295,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "usdj-just-stablecoin",
+    "name": "JUST Stablecoin",
+    "symbol": "USDJ",
+    "rank": 297,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "hook-hooked-protocol",
+    "name": "Hooked Protocol",
+    "symbol": "HOOK",
+    "rank": 297,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "xym-symbol",
+    "name": "Symbol",
+    "symbol": "XYM",
+    "rank": 298,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "rdnt-radiant-capital",
+    "name": "Radiant Capital",
+    "symbol": "RDNT",
+    "rank": 299,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "agi-delysium",
+    "name": "Delysium",
+    "symbol": "AGI",
+    "rank": 300,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "win-winklink",
+    "name": "WINkLink",
+    "symbol": "WIN",
+    "rank": 301,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "honey-hivemapper",
+    "name": "Hivemapper",
+    "symbol": "HONEY",
+    "rank": 302,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "gal-galxe",
+    "name": "Galxe",
+    "symbol": "GAL",
+    "rank": 303,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "tvk-the-virtua-kolect",
+    "name": "Vanar Chain",
+    "symbol": "VANRY",
+    "rank": 304,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "pla-playdapp",
+    "name": "PlayDapp",
+    "symbol": "PLA",
+    "rank": 305,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "acs-access-protocol",
+    "name": "Access Protocol",
+    "symbol": "ACS",
+    "rank": 306,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "blz-bluzelle",
+    "name": "Bluzelle",
+    "symbol": "BLZ",
+    "rank": 307,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "cudos-cudos",
+    "name": "CUDOS",
+    "symbol": "CUDOS",
+    "rank": 308,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "shdw-genesysgo-shadow",
+    "name": "GenesysGo Shadow",
+    "symbol": "SHDW",
+    "rank": 309,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "iq-everipedia",
+    "name": "Everipedia",
+    "symbol": "IQ",
+    "rank": 310,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "dodo-dodo",
+    "name": "DODO",
+    "symbol": "DODO",
+    "rank": 311,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mvl-mass-vehicle-ledger",
+    "name": "MVL",
+    "symbol": "MVL",
+    "rank": 312,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "stg-stargatetoken",
+    "name": "Stargate Finance",
+    "symbol": "STG",
+    "rank": 313,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "iq-iq",
+    "name": "IQ",
+    "symbol": "IQ",
+    "rank": 314,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "gusd-gemini-dollar",
+    "name": "Gemini Dollar",
+    "symbol": "GUSD",
+    "rank": 315,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "dka-dkargo",
+    "name": "dKargo",
+    "symbol": "DKA",
+    "rank": 316,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "dusk-dusk-network",
+    "name": "Dusk Network",
+    "symbol": "DUSK",
+    "rank": 317,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "icx-icon",
+    "name": "ICON",
+    "symbol": "ICX",
+    "rank": 318,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "lusd-liquity-usd",
+    "name": "Liquity USD",
+    "symbol": "LUSD",
+    "rank": 319,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "orbs-orbs",
+    "name": "Orbs",
+    "symbol": "ORBS",
+    "rank": 320,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "omg-omg-network",
+    "name": "OMG Network",
+    "symbol": "OMG",
+    "rank": 321,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "gog-guild-of-guardians",
+    "name": "Guild of Guardians",
+    "symbol": "GOG",
+    "rank": 322,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "poly-polymath",
+    "name": "Polymath",
+    "symbol": "POLY",
+    "rank": 323,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "loom-loom-network",
+    "name": "Loom Network",
+    "symbol": "LOOM",
+    "rank": 324,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "elon-dogelon-mars",
+    "name": "Dogelon Mars",
+    "symbol": "ELON",
+    "rank": 325,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "pundix-pundi-x",
+    "name": "Pundi X",
+    "symbol": "PUNDIX",
+    "rank": 326,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ctxc-cortex",
+    "name": "Cortex",
+    "symbol": "CTXC",
+    "rank": 327,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "knc-kyber-network",
+    "name": "Kyber Network Crystal",
+    "symbol": "KNC",
+    "rank": 328,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "sdex-smardex",
+    "name": "SmarDex",
+    "symbol": "SDEX",
+    "rank": 329,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "eurs-stasis-eurs",
+    "name": "STASIS EURO",
+    "symbol": "EURS",
+    "rank": 330,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "bake-bakeryswap",
+    "name": "BakerySwap",
+    "symbol": "BAKE",
+    "rank": 331,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "steem-steem",
+    "name": "Steem",
+    "symbol": "STEEM",
+    "rank": 332,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "stpt-stpt",
+    "name": "STPT",
+    "symbol": "STPT",
+    "rank": 333,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "vr-victoria-vr",
+    "name": "Victoria VR",
+    "symbol": "VR",
+    "rank": 334,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "noia-syntropy",
+    "name": "Syntropy",
+    "symbol": "NOIA",
+    "rank": 335,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "polis-star-atlas-dao",
+    "name": "Star Atlas DAO",
+    "symbol": "POLIS",
+    "rank": 336,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "gmt-gomining-token",
+    "name": "Gomining Token",
+    "symbol": "GMT",
+    "rank": 337,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "cvc-civic",
+    "name": "Civic",
+    "symbol": "CVC",
+    "rank": 338,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mtl-metal",
+    "name": "Metal",
+    "symbol": "MTL",
+    "rank": 339,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "bitcoin-harrypotterobamasonic10inu-eth",
+    "name": "HarryPotterObamaSonic10Inu (ETH)",
+    "symbol": "BITCOIN",
+    "rank": 340,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "req-request-network",
+    "name": "Request",
+    "symbol": "REQ",
+    "rank": 341,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "agld-adventure-gold",
+    "name": "Adventure Gold",
+    "symbol": "AGLD",
+    "rank": 342,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "aurora-aurora",
+    "name": "Aurora",
+    "symbol": "AURORA",
+    "rank": 343,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "med-medibloc-qrc20",
+    "name": "MediBloc",
+    "symbol": "MED",
+    "rank": 344,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "rss3-rss3",
+    "name": "RSS3",
+    "symbol": "RSS3",
+    "rank": 345,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ogn-origin-protocol",
+    "name": "Origin Protocol",
+    "symbol": "OGN",
+    "rank": 346,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "sauce-saucerswap",
+    "name": "SaucerSwap",
+    "symbol": "SAUCE",
+    "rank": 347,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mlk-milk-alliance",
+    "name": "MiL.k Alliance",
+    "symbol": "MLK",
+    "rank": 348,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "zig-zigcoin",
+    "name": "ZigCoin",
+    "symbol": "ZIG",
+    "rank": 349,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "bnt-bancor",
+    "name": "Bancor",
+    "symbol": "BNT",
+    "rank": 350,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "xpla-xpla",
+    "name": "XPLA",
+    "symbol": "XPLA",
+    "rank": 351,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "pha-phala-network",
+    "name": "Phala Network",
+    "symbol": "PHA",
+    "rank": 352,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "eul-euler",
+    "name": "Euler",
+    "symbol": "EUL",
+    "rank": 353,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mrs-metars-genesis",
+    "name": "Metars Genesis",
+    "symbol": "MRS",
+    "rank": 354,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "aca-acala-network",
+    "name": "Acala Network",
+    "symbol": "ACA",
+    "rank": 355,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "rad-radicle",
+    "name": "Radworks",
+    "symbol": "RAD",
+    "rank": 356,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "aeth-ankreth",
+    "name": "ankrETH",
+    "symbol": "AETH",
+    "rank": 357,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mbox-mobox",
+    "name": "Mobox",
+    "symbol": "MBOX",
+    "rank": 358,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "wmt-world-mobile-token",
+    "name": "World Mobile Token",
+    "symbol": "WMT",
+    "rank": 359,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ton-tokamak-network",
+    "name": "Tokamak Network",
+    "symbol": "TON",
+    "rank": 360,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "orca-orca",
+    "name": "Orca",
+    "symbol": "ORCA",
+    "rank": 361,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ardr-ardor",
+    "name": "Ardor",
+    "symbol": "ARDR",
+    "rank": 362,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "nkn-nkn",
+    "name": "NKN",
+    "symbol": "NKN",
+    "rank": 363,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "cyber-cyberconnect",
+    "name": "CyberConnect",
+    "symbol": "CYBER",
+    "rank": 365,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "xyo-xyo-network",
+    "name": "XYO",
+    "symbol": "XYO",
+    "rank": 366,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "trac-trac-ordinals",
+    "name": "TRAC (Ordinals)",
+    "symbol": "TRAC",
+    "rank": 366,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "cel-celsius",
+    "name": "Celsius",
+    "symbol": "CEL",
+    "rank": 367,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "wrx-wazirx",
+    "name": "WazirX",
+    "symbol": "WRX",
+    "rank": 368,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "tlm-alien-worlds",
+    "name": "Alien Worlds",
+    "symbol": "TLM",
+    "rank": 368,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "wild-wilder-world",
+    "name": "Wilder World",
+    "symbol": "WILD",
+    "rank": 369,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "vra-verasity",
+    "name": "Verasity",
+    "symbol": "VRA",
+    "rank": 371,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "raca-radio-caca",
+    "name": "Radio Caca",
+    "symbol": "RACA",
+    "rank": 372,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "gods-gods-unchained",
+    "name": "Gods Unchained",
+    "symbol": "GODS",
+    "rank": 373,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "pols-polkastarter",
+    "name": "Polkastarter",
+    "symbol": "POLS",
+    "rank": 374,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "tomi-tominet",
+    "name": "tomiNet",
+    "symbol": "TOMI",
+    "rank": 375,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "stormx-stormx",
+    "name": "StormX",
+    "symbol": "STMX",
+    "rank": 376,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "rare-superrare",
+    "name": "SuperRare",
+    "symbol": "RARE",
+    "rank": 377,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mbl-moviebloc",
+    "name": "MovieBloc",
+    "symbol": "MBL",
+    "rank": 378,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "xvg-verge",
+    "name": "Verge",
+    "symbol": "XVG",
+    "rank": 379,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "mbx-marblex",
+    "name": "Marblex",
+    "symbol": "MBX",
+    "rank": 380,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "dimo-dimo",
+    "name": "DIMO",
+    "symbol": "DIMO",
+    "rank": 381,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mwc-mimblewimblecoin",
+    "name": "Mimble Wimble Coin",
+    "symbol": "MWC",
+    "rank": 381,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "uos-ultra",
+    "name": "Ultra",
+    "symbol": "UOS",
+    "rank": 382,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "canto-canto",
+    "name": "CANTO",
+    "symbol": "CANTO",
+    "rank": 383,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "qi-benqi",
+    "name": "BENQI",
+    "symbol": "QI",
+    "rank": 384,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mines-of-dalarnia-dar",
+    "name": "Mines of Dalarnia",
+    "symbol": "DAR",
+    "rank": 385,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "hft1-hashflow",
+    "name": "Hashflow",
+    "symbol": "HFT",
+    "rank": 387,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "nxra-allianceblock-nexera",
+    "name": "AllianceBlock Nexera",
+    "symbol": "NXRA",
+    "rank": 388,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "perp-perpetual-protocol",
+    "name": "Perpetual Protocol",
+    "symbol": "PERP",
+    "rank": 389,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ladys-milady-meme-coin",
+    "name": "Milady Meme Coin",
+    "symbol": "LADYS",
+    "rank": 389,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "paid-paid-network",
+    "name": "PAID Network",
+    "symbol": "PAID",
+    "rank": 391,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "wnxm-wrapped-nxm",
+    "name": "Wrapped NXM",
+    "symbol": "WNXM",
+    "rank": 392,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "uqc-uquid-coin",
+    "name": "Uquid Coin",
+    "symbol": "UQC",
+    "rank": 393,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ever-everscale",
+    "name": "Everscale",
+    "symbol": "EVER",
+    "rank": 394,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "keep-keep-network",
+    "name": "Keep Network",
+    "symbol": "KEEP",
+    "rank": 395,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ren-republic-protocol",
+    "name": "Ren",
+    "symbol": "REN",
+    "rank": 396,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "arpa-arpa-chain",
+    "name": "ARPA Chain",
+    "symbol": "ARPA",
+    "rank": 397,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "cbk-cobak-token",
+    "name": "Cobak Token",
+    "symbol": "CBK",
+    "rank": 398,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "gel-gelato",
+    "name": "Gelato",
+    "symbol": "GEL",
+    "rank": 399,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "qkc-quarkchain",
+    "name": "QuarkChain",
+    "symbol": "QKC",
+    "rank": 400,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "map-map-protocol",
+    "name": "MAP Protocol",
+    "symbol": "MAP",
+    "rank": 401,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "bzr-bazaars",
+    "name": "Bazaars",
+    "symbol": "BZR",
+    "rank": 402,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "dfi-defi-chain",
+    "name": "DeFi Chain",
+    "symbol": "DFI",
+    "rank": 403,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "ankr-ankr-network",
+    "name": "Ankr",
+    "symbol": "ANKR",
+    "rank": 404,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "vai-vaiot",
+    "name": "VAIOT",
+    "symbol": "VAI",
+    "rank": 405,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ela-elastos",
+    "name": "Elastos",
+    "symbol": "ELA",
+    "rank": 406,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "busd-binance-usd",
+    "name": "Binance USD",
+    "symbol": "BUSD",
+    "rank": 407,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "meta-metadium",
+    "name": "Metadium",
+    "symbol": "META",
+    "rank": 408,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "caw-a-hunters-dream",
+    "name": "A Hunters Dream",
+    "symbol": "CAW",
+    "rank": 409,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "tomo-tomochain",
+    "name": "Viction",
+    "symbol": "VIC",
+    "rank": 410,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "tru-truefi",
+    "name": "TrueFi",
+    "symbol": "TRU",
+    "rank": 410,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "vrsc-verus-coin",
+    "name": "Verus Coin",
+    "symbol": "VRSC",
+    "rank": 412,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "dext-dextools",
+    "name": "DexTools",
+    "symbol": "DEXT",
+    "rank": 413,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "fort-forta",
+    "name": "Forta",
+    "symbol": "FORT",
+    "rank": 414,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mobilecoin",
+    "name": "MobileCoin",
+    "symbol": "MOB",
+    "rank": 415,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "cre-carry",
+    "name": "Carry",
+    "symbol": "CRE",
+    "rank": 416,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "aleph-alephim",
+    "name": "aleph.im",
+    "symbol": "ALEPH",
+    "rank": 417,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "png-pangolin",
+    "name": "Pangolin",
+    "symbol": "PNG",
+    "rank": 418,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "dag-constellation",
+    "name": "Constellation",
+    "symbol": "DAG",
+    "rank": 419,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "kin-kin",
+    "name": "Kin",
+    "symbol": "KIN",
+    "rank": 420,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "sweat-sweat-economy",
+    "name": "Sweat Economy",
+    "symbol": "SWEAT",
+    "rank": 421,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "aergo-aergo",
+    "name": "Aergo",
+    "symbol": "AERGO",
+    "rank": 422,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "vita-vitadao",
+    "name": "VitaDAO",
+    "symbol": "VITA",
+    "rank": 423,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "dora-dora-factory",
+    "name": "Dora Factory",
+    "symbol": "DORA",
+    "rank": 424,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "c98-coin98",
+    "name": "Coin98",
+    "symbol": "C98",
+    "rank": 425,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "dpi-defi-pulse-index",
+    "name": "DeFi Pulse Index",
+    "symbol": "DPI",
+    "rank": 426,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "xcad-xcad-network",
+    "name": "XCAD Network",
+    "symbol": "XCAD",
+    "rank": 427,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mdx-mdex",
+    "name": "Mdex (BSC)",
+    "symbol": "MDX",
+    "rank": 428,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "meld-meld-ada-token",
+    "name": "MELD (ADA Token)",
+    "symbol": "MELD",
+    "rank": 429,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ewt-energy-web-token",
+    "name": "Energy Web Token",
+    "symbol": "EWT",
+    "rank": 430,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "zcx-unizen",
+    "name": "Unizen",
+    "symbol": "ZCX",
+    "rank": 431,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "bfc-bifrost",
+    "name": "Bifrost",
+    "symbol": "BFC",
+    "rank": 432,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "lif3-lif3",
+    "name": "LIF3",
+    "symbol": "LIF3",
+    "rank": 433,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "slnd-solend",
+    "name": "Solend",
+    "symbol": "SLND",
+    "rank": 434,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "cah-moon-tropica",
+    "name": "Moon Tropica",
+    "symbol": "CAH",
+    "rank": 436,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "cocos-cocos-bcx",
+    "name": "COMBO",
+    "symbol": "COMBO",
+    "rank": 437,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "space-microvisionchain",
+    "name": "MicroVisionChain",
+    "symbol": "SPACE",
+    "rank": 437,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "npt-neopin",
+    "name": "Neopin",
+    "symbol": "NPT",
+    "rank": 438,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "etn-electroneum",
+    "name": "Electroneum",
+    "symbol": "ETN",
+    "rank": 439,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "hifi-hifi-finance",
+    "name": "Hifi Finance",
+    "symbol": "HIFI",
+    "rank": 440,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "cheq-cheqd-network",
+    "name": "CHEQD Network",
+    "symbol": "CHEQ",
+    "rank": 441,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "xprt-persistence",
+    "name": "Persistence",
+    "symbol": "XPRT",
+    "rank": 442,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "alu-altura",
+    "name": "Altura",
+    "symbol": "ALU",
+    "rank": 443,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "data-streamr-datacoin",
+    "name": "Streamr DATAcoin",
+    "symbol": "DATA",
+    "rank": 444,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "btrfly-redacted",
+    "name": "Redacted",
+    "symbol": "BTRFLY",
+    "rank": 445,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "fx-function-x",
+    "name": "Function X",
+    "symbol": "FX",
+    "rank": 446,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "lat-platon-network",
+    "name": "PlatON Network",
+    "symbol": "LAT",
+    "rank": 447,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "alcx-alchemix",
+    "name": "Alchemix",
+    "symbol": "ALCX",
+    "rank": 448,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "forth-ampleforth-governance-token",
+    "name": "Ampleforth Governance Token",
+    "symbol": "FORTH",
+    "rank": 449,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "sipher-sipher",
+    "name": "Sipher",
+    "symbol": "SIPHER",
+    "rank": 450,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "dione-dione",
+    "name": "Dione",
+    "symbol": "DIONE",
+    "rank": 451,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "fun-funfair",
+    "name": "FUNToken",
+    "symbol": "FUN",
+    "rank": 453,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "lever-leverfi",
+    "name": "LeverFi",
+    "symbol": "LEVER",
+    "rank": 454,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "avinoc-avinoc",
+    "name": "AVINOC",
+    "symbol": "AVINOC",
+    "rank": 454,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mnde-marinade",
+    "name": "Marinade",
+    "symbol": "MNDE",
+    "rank": 456,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ern-ethernity-chain",
+    "name": "Ethernity Chain",
+    "symbol": "ERN",
+    "rank": 456,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "route-router-protocol",
+    "name": "Router Protocol",
+    "symbol": "ROUTE",
+    "rank": 457,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "dia-dia",
+    "name": "DIA",
+    "symbol": "DIA",
+    "rank": 458,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "strk-strike",
+    "name": "Strike",
+    "symbol": "STRK",
+    "rank": 459,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "dero-dero",
+    "name": "Dero",
+    "symbol": "DERO",
+    "rank": 460,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "sbd-steem-dollars",
+    "name": "Steem Dollars",
+    "symbol": "SBD",
+    "rank": 461,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "uwu-uwu-lend",
+    "name": "UwU Lend",
+    "symbol": "UWU",
+    "rank": 462,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "xai-sideshift-token",
+    "name": "SideShift Token",
+    "symbol": "XAI",
+    "rank": 463,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "stik-staika",
+    "name": "Staika",
+    "symbol": "STIK",
+    "rank": 464,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mdt-measurable-data-token",
+    "name": "Measurable Data Token",
+    "symbol": "MDT",
+    "rank": 465,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ata-automata",
+    "name": "Automata",
+    "symbol": "ATA",
+    "rank": 466,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "solo-sologenic",
+    "name": "Sologenic",
+    "symbol": "SOLO",
+    "rank": 467,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "aitech-solidus-ai-tech",
+    "name": "Solidus AI Tech",
+    "symbol": "AITECH",
+    "rank": 468,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "idex-idex",
+    "name": "IDEX",
+    "symbol": "IDEX",
+    "rank": 469,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "orn-orion-protocol",
+    "name": "Orion Protocol",
+    "symbol": "ORN",
+    "rank": 470,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "skl-skale",
+    "name": "SKALE",
+    "symbol": "SKL",
+    "rank": 471,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "astra-astrafer",
+    "name": "Astrafer",
+    "symbol": "ASTRA",
+    "rank": 472,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "col-clash-of-lilliput",
+    "name": "Clash of Lilliput",
+    "symbol": "COL",
+    "rank": 472,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "bsw-biswap",
+    "name": "Biswap",
+    "symbol": "BSW",
+    "rank": 473,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "dnx-dynex",
+    "name": "Dynex",
+    "symbol": "DNX",
+    "rank": 475,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "xcn-chain",
+    "name": "Onyxcoin",
+    "symbol": "XCN",
+    "rank": 476,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "fct-firmachain",
+    "name": "Firmachain",
+    "symbol": "FCT",
+    "rank": 477,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "gfal-games-for-a-living",
+    "name": "Games for a Living",
+    "symbol": "GFAL",
+    "rank": 478,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "tt-thunder-token",
+    "name": "ThunderCore",
+    "symbol": "TT",
+    "rank": 479,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ceek-ceek-vr",
+    "name": "CEEK VR",
+    "symbol": "CEEK",
+    "rank": 480,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "upp-sentinel-protocol",
+    "name": "Sentinel Protocol",
+    "symbol": "UPP",
+    "rank": 481,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "dep-deapcoin",
+    "name": "DEAPcoin",
+    "symbol": "DEP",
+    "rank": 482,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "alt-alitas",
+    "name": "Alitas",
+    "symbol": "ALT",
+    "rank": 483,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "iris-irisnet",
+    "name": "IRISnet",
+    "symbol": "IRIS",
+    "rank": 484,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "unibot-unibot",
+    "name": "Unibot",
+    "symbol": "UNIBOT",
+    "rank": 485,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "hunt-hunt",
+    "name": "HUNT",
+    "symbol": "HUNT",
+    "rank": 486,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mcb-mcdex",
+    "name": "MCDEX",
+    "symbol": "MCB",
+    "rank": 487,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "sdao-singularitydao",
+    "name": "SingularityDAO",
+    "symbol": "SDAO",
+    "rank": 488,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "reef-reef",
+    "name": "Reef",
+    "symbol": "REEF",
+    "rank": 489,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ghst-aavegotchi",
+    "name": "Aavegotchi",
+    "symbol": "GHST",
+    "rank": 490,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "abbc-alibabacoin",
+    "name": "ABBC Coin",
+    "symbol": "ABBC",
+    "rank": 491,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "lit-litentry",
+    "name": "Litentry",
+    "symbol": "LIT",
+    "rank": 492,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "cpool-clearpool",
+    "name": "Clearpool",
+    "symbol": "CPOOL",
+    "rank": 493,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "bel-bella-protocol",
+    "name": "Bella Protocol",
+    "symbol": "BEL",
+    "rank": 494,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "grs-groestlcoin",
+    "name": "Groestlcoin",
+    "symbol": "GRS",
+    "rank": 495,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "boba-boba-network",
+    "name": "Boba Network",
+    "symbol": "BOBA",
+    "rank": 496,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mtrg-meter-governance",
+    "name": "Meter Governance",
+    "symbol": "MTRG",
+    "rank": 497,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "asm-assemble-protocol",
+    "name": "Assemble Protocol",
+    "symbol": "ASM",
+    "rank": 498,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ixs-ix-swap",
+    "name": "IX Swap",
+    "symbol": "IXS",
+    "rank": 499,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "tsuka-dejitaru-tsuka",
+    "name": "Dejitaru Tsuka",
+    "symbol": "TSUKA",
+    "rank": 500,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "saitama-saitachain-coin",
+    "name": "SaitaChain Coin",
+    "symbol": "STC",
+    "rank": 501,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "zbc-zebec-protocol",
+    "name": "Zebec Protocol",
+    "symbol": "ZBC",
+    "rank": 502,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "euroc-euro-coin",
+    "name": "EURC",
+    "symbol": "EURC",
+    "rank": 503,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "xsushi-xsushi",
+    "name": "xSUSHI",
+    "symbol": "XSUSHI",
+    "rank": 504,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ccd-concordium",
+    "name": "Concordium",
+    "symbol": "CCD",
+    "rank": 505,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "pro-propy",
+    "name": "Propy",
+    "symbol": "PRO",
+    "rank": 506,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mrph-morpheusnetwork",
+    "name": "Morpheus Network",
+    "symbol": "MRPH",
+    "rank": 507,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mct-metacraft",
+    "name": "Metacraft",
+    "symbol": "MCT",
+    "rank": 508,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "wan-wanchain",
+    "name": "Wanchain",
+    "symbol": "WAN",
+    "rank": 509,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "shx-stronghold-token",
+    "name": "Stronghold Token",
+    "symbol": "SHX",
+    "rank": 510,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "atpay-atpay",
+    "name": "AtPay",
+    "symbol": "ATPAY",
+    "rank": 511,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "tara-taraxa",
+    "name": "Taraxa",
+    "symbol": "TARA",
+    "rank": 512,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "lyra-lyra-finance",
+    "name": "Lyra Finance",
+    "symbol": "LYRA",
+    "rank": 513,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "samo-samoyedcoin",
+    "name": "Samoyedcoin",
+    "symbol": "SAMO",
+    "rank": 514,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "susd-susd",
+    "name": "sUSD",
+    "symbol": "SUSD",
+    "rank": 515,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "temple-templedao",
+    "name": "TempleDAO",
+    "symbol": "TEMPLE",
+    "rank": 516,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "alt-archloot",
+    "name": "ArchLoot",
+    "symbol": "ALT",
+    "rank": 517,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mln-enzyme",
+    "name": "Enzyme",
+    "symbol": "MLN",
+    "rank": 518,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "wrld-nft-worlds",
+    "name": "NFT Worlds",
+    "symbol": "WRLD",
+    "rank": 519,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "wxt-wirex-token",
+    "name": "Wirex Token",
+    "symbol": "WXT",
+    "rank": 520,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "kmd-komodo",
+    "name": "Komodo",
+    "symbol": "KMD",
+    "rank": 521,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "fida-bonfida",
+    "name": "Bonfida",
+    "symbol": "FIDA",
+    "rank": 522,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "evmos-evmos",
+    "name": "Evmos",
+    "symbol": "EVMOS",
+    "rank": 523,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "wagmigames-wagmi-games",
+    "name": "WAGMI GAMES",
+    "symbol": "WAGMIGAMES",
+    "rank": 524,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "tbtc-tbtc",
+    "name": "tBTC",
+    "symbol": "TBTC",
+    "rank": 525,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "utk-utrust",
+    "name": "xMoney",
+    "symbol": "UTK",
+    "rank": 526,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "inst-instadapp",
+    "name": "Instadapp",
+    "symbol": "INST",
+    "rank": 527,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mplx-metaplex",
+    "name": "Metaplex",
+    "symbol": "MPLX",
+    "rank": 528,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "moc-mossland",
+    "name": "Moss Coin",
+    "symbol": "MOC",
+    "rank": 529,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "aog-smartofgiving",
+    "name": "smARTOFGIVING",
+    "symbol": "AOG",
+    "rank": 530,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "rvf-rocket-vault-rocketx",
+    "name": "RocketX Exchange",
+    "symbol": "RVF",
+    "rank": 531,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mxc-machine-xchange-coin",
+    "name": "MXC",
+    "symbol": "MXC",
+    "rank": 532,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "fon-fonsmartchain",
+    "name": "FONSmartChain",
+    "symbol": "FON",
+    "rank": 533,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "badger-badger",
+    "name": "Badger",
+    "symbol": "BADGER",
+    "rank": 534,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "lto-lto-network",
+    "name": "LTO Network",
+    "symbol": "LTO",
+    "rank": 535,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "aqt-alpha-quark-token",
+    "name": "Alpha Quark Token",
+    "symbol": "AQT",
+    "rank": 536,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "stt-statter-network",
+    "name": "Statter Network",
+    "symbol": "STT",
+    "rank": 537,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "xeta-xana",
+    "name": "Xana",
+    "symbol": "XETA",
+    "rank": 538,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "stos-stratos",
+    "name": "Stratos",
+    "symbol": "STOS",
+    "rank": 539,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "grail-camelot-token",
+    "name": "Camelot Token",
+    "symbol": "GRAIL",
+    "rank": 540,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "dvpn-sentinel",
+    "name": "Sentinel",
+    "symbol": "DVPN",
+    "rank": 541,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ghx-gamercoin",
+    "name": "GamerCoin",
+    "symbol": "GHX",
+    "rank": 542,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "aht-ahatoken",
+    "name": "AhaToken",
+    "symbol": "AHT",
+    "rank": 543,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "sov-sovryn",
+    "name": "Sovryn",
+    "symbol": "SOV",
+    "rank": 544,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "xido-xido-finance",
+    "name": "Xido Finance",
+    "symbol": "XIDO",
+    "rank": 545,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "aura-aura-finance",
+    "name": "Aura Finance",
+    "symbol": "AURA",
+    "rank": 546,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "kishu-kishu-inu",
+    "name": "Kishu Inu",
+    "symbol": "KISHU",
+    "rank": 547,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "taki-taki",
+    "name": "Taki",
+    "symbol": "TAKI",
+    "rank": 548,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "mlt-media-licensing-token",
+    "name": "Media Licensing Token",
+    "symbol": "MLT",
+    "rank": 549,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "velo-velo",
+    "name": "Velo",
+    "symbol": "VELO",
+    "rank": 550,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "blok-bloktopia",
+    "name": "Bloktopia",
+    "symbol": "BLOK",
+    "rank": 551,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "tdrop-thetadrop",
+    "name": "ThetaDrop",
+    "symbol": "TDROP",
+    "rank": 552,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "asd-ascendex-token",
+    "name": "AscendEx Token",
+    "symbol": "ASD",
+    "rank": 553,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "derc-derace",
+    "name": "DeRace",
+    "symbol": "DERC",
+    "rank": 554,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "hello-hello-labs",
+    "name": "HELLO Labs",
+    "symbol": "HELLO",
+    "rank": 555,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "h2o3-h2o-dao",
+    "name": "H2O Dao",
+    "symbol": "H2O",
+    "rank": 556,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "xpr-proton",
+    "name": "Proton",
+    "symbol": "XPR",
+    "rank": 557,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "wojak-wojak",
+    "name": "Wojak",
+    "symbol": "WOJAK",
+    "rank": 558,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "egc-evergrowcoin",
+    "name": "EverGrow",
+    "symbol": "EGC",
+    "rank": 559,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "caps-ternoa",
+    "name": "Ternoa",
+    "symbol": "CAPS",
+    "rank": 560,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "cos-contentos",
+    "name": "Contentos",
+    "symbol": "COS",
+    "rank": 561,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "key-selfkey",
+    "name": "Selfkey",
+    "symbol": "KEY",
+    "rank": 562,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "talk-talken",
+    "name": "Talken",
+    "symbol": "TALK",
+    "rank": 563,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "leash-doge-killer",
+    "name": "DOGE KILLER",
+    "symbol": "LEASH",
+    "rank": 564,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ssx-somesing",
+    "name": "SOMESING",
+    "symbol": "SSX",
+    "rank": 565,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "zano-zano",
+    "name": "Zano",
+    "symbol": "ZANO",
+    "rank": 566,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  },
+  {
+    "id": "fpis-frax-price-index-share",
+    "name": "Frax Price Index Share",
+    "symbol": "FPIS",
+    "rank": 567,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "tava-altava",
+    "name": "ALTAVA",
+    "symbol": "TAVA",
+    "rank": 568,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "kata-katana-inu",
+    "name": "Katana Inu",
+    "symbol": "KATA",
+    "rank": 569,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "bob4-bob-token",
+    "name": "BOB Token",
+    "symbol": "BOB",
+    "rank": 570,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ufo-ufo-gaming",
+    "name": "UFO Gaming",
+    "symbol": "UFO",
+    "rank": 571,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "ksp-klayswap-protocol",
+    "name": "KlaySwap Protocol",
+    "symbol": "KSP",
+    "rank": 572,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "loka-league-of-kingdoms",
+    "name": "League of Kingdoms",
+    "symbol": "LOKA",
+    "rank": 573,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "cusd-celo-dollar",
+    "name": "Celo Dollar",
+    "symbol": "CUSD",
+    "rank": 574,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "botto-botto",
+    "name": "Botto",
+    "symbol": "BOTTO",
+    "rank": 574,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "eurt-tether-eurt",
+    "name": "Tether EURt",
+    "symbol": "EURT",
+    "rank": 576,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "tko-tokocrypto",
+    "name": "Tokocrypto",
+    "symbol": "TKO",
+    "rank": 577,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "burger-burger-swap",
+    "name": "Burger Swap",
+    "symbol": "BURGER",
+    "rank": 578,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "klv-klever",
+    "name": "Klever",
+    "symbol": "KLV",
+    "rank": 579,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "hai-hackenai",
+    "name": "HackenAI",
+    "symbol": "HAI",
+    "rank": 580,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "psp-paraswap",
+    "name": "ParaSwap",
+    "symbol": "PSP",
+    "rank": 581,
+    "is_new": false,
+    "is_active": true,
+    "type": "token"
+  },
+  {
+    "id": "rei-rei-network",
+    "name": "REI Network",
+    "symbol": "REI",
+    "rank": 582,
+    "is_new": false,
+    "is_active": true,
+    "type": "coin"
+  }
+]
